@@ -90,3 +90,5 @@ exclude:
   - spec
   - tmp
  
+
+theme: jekyll-theme-midnight
